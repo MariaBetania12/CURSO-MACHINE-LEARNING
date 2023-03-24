@@ -15,3 +15,10 @@ Modulo 5, Bucles Python
 Modulo 5, Space x data collection
 
 Modulo 5, EDA using SQL
+
+## DIA 3
+Modulo 5, Introduccion a Machine Learning
+
+Modulo 5, Folium
+
+Modulo 5, Prophet- predecir el valor del bitcoin
