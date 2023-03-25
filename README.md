@@ -22,3 +22,9 @@ Modulo 5, Introduccion a Machine Learning
 Modulo 5, Folium
 
 Modulo 5, Prophet- predecir el valor del bitcoin
+
+## DIA 4
+
+Modulo 5, Interactive Visual Analytics con Folium
+
+Modulo 5, Machine Learning Predicciones
